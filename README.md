@@ -3,14 +3,6 @@
 ***
 ![google 附体](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)  
 
-![ali](https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png) 
-
-![baidu](//www.baidu.com/img/baidu_jgylogo3.gif)  
-
-![github](https://github.githubassets.com/images/modules/open_graph/github-logo.png)  
-
-![github](github.githubassets.com/images/modules/open_graph/github-mark.png)  
-
 ***
 ```
 个人背景:
