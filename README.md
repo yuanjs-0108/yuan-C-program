@@ -1,5 +1,8 @@
 # yuan--C-program
-文档属于个人学习整理笔记,新人技术不够成熟,可以指出!!
+文档属于个人学习整理笔记,新人技术不够成熟,可以指出!!  
+![ali](https://img.alicdn.com/tfs/TB1Ly5oS3HqK1RjSZFPXXcwapXa-238-54.png)  
+![google 附体](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)  
+
 ***
 ```
 个人背景:
@@ -18,6 +21,5 @@
 >>`search`->查找算法  
 >>`sort`->排序算法  
 
-![google 附体](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
 
 <kbd>小袁加油啊！！</kbd>
