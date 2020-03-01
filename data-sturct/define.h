@@ -62,5 +62,6 @@ typedef struct tnode
     struct tnode *lchild,*rchild;
 }Btree;
 
+#endif //__define__H__
 
 
