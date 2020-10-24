@@ -1,14 +1,11 @@
 # yuan--C-program
-文档属于个人学习整理笔记,新人技术不够成熟,可以指出!!  
+文档属于个人学习整理笔记
 ***
 ![google 附体](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)  
 
 ***
 ```
-个人背景:
-2020-->升本小菜鸡,梦想上长春工业大学!!! ❤
-文档的目标就是把2020一年学习到的知识整理一下
-包括c语言程序设计和数据结构!!
+工大小菜比♥
 ```
 ***
 文档注释：
